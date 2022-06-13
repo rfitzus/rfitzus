@@ -1,4 +1,4 @@
-Documenting customizations in Epicor.  
+Documenting customizations.  
 
 <!---
 rfitzus/rfitzus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
