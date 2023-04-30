@@ -1,6 +1,6 @@
 ## Epicor Customizations
 
-Documented customizations in Epicor:
+Documented customizations in Epicor E10:
 - [LabelsForPOs](https://github.com/rfitzus/LabelsForPOs)
   - Generate multiple PO receipt labels at once. Continue to add additional POs to your list and print one large list of labels all simultaneously.
 - [QuoteLineAvailability](https://github.com/rfitzus/QuoteLineAvailability)
