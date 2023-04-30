@@ -2,6 +2,7 @@
 
 Documented customizations in Epicor:
 - [LabelsForPOs](https://github.com/rfitzus/LabelsForPOs)
+  - pull in an entire PO and print all the labels simultaneously. You can continue to add additional POs to your list and print one large list of labels all simultaneously.
 - [QuoteLineAvailability](https://github.com/rfitzus/QuoteLineAvailability)
 - [CallBackReminder](https://github.com/rfitzus/CallBackReminder)
 - [FinalCheckJobEntry](https://github.com/rfitzus/FinalCheckJobEntry)
